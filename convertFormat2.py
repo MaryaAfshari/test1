@@ -10,6 +10,6 @@ def convert_m4a_to_wav(input_file, output_file):
 
 # Example usage
 input_file = '/mnt/disk1/data/voxceleb_2/dev/aac/id00012/21Uxsk56VDQ/00001.m4a'
-output_file = 'output.wav'
+output_file = '/mnt/disk1/data/voxceleb_2/dev/aac/id00012/21Uxsk56VDQ/00001.wav'
 
 convert_m4a_to_wav(input_file, output_file)
