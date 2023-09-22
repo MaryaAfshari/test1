@@ -2,8 +2,8 @@ import os
 import random
 
 # Specify the path to the main dataset folder
-#dataset_folder = "mnt/disk1/data/DeepMine/wav"
-dataset_folder =  "/Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav"
+dataset_folder = "mnt/disk1/data/DeepMine/wav"
+#dataset_folder =  "/Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav"
 
 # Define split ratios
 train_ratio = 0.7
@@ -50,6 +50,7 @@ def write_list_to_file(data_list, file_path):
         for example in data_list:
             speaker_id, session_id, file_path = example
             file.write(f"{speaker_id} {session_id} {file_path}\n")
+
 
 # Write train list to a file
 write_list_to_file(train_list, "train_list.txt")
