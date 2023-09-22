@@ -1,123 +1,113 @@
-R000303 S003982 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003982/P000008.wav
-R000303 S003982 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003982/P066199.wav
-R000303 S003982 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003982/P070963.wav
-R000303 S003982 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003982/P000010.wav
-R000303 S003982 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003982/P034165.wav
-R000303 S003982 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003982/P034166.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P066202.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P000009.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P034178.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P034177.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P000005.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P000004.wav
-R000303 S003983 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003983/P034172.wav
-R000303 S003984 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003984/P034183.wav
-R000303 S003984 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003984/P070970.wav
-R000303 S003984 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003984/P070971.wav
-R000303 S003981 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003981/P000007.wav
-R000303 S003981 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003981/P000004.wav
-R000303 S003981 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003981/P034158.wav
-R000303 S003981 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000303/S003981/P061417.wav
-R000420 S005252 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005252/P065570.wav
-R000420 S005252 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005252/P000003.wav
-R000420 S005254 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005254/P045585.wav
-R000420 S005254 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005254/P045580.wav
-R000420 S005254 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005254/P065577.wav
-R000420 S005254 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005254/P000002.wav
-R000420 S005253 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005253/P045569.wav
-R000420 S005253 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005253/P045567.wav
-R000420 S005253 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005253/P045574.wav
-R000420 S005253 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005253/P000002.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P052004.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P052005.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P045531.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P045535.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P000001.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P000003.wav
-R000420 S005251 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000420/S005251/P000002.wav
-R000457 S005750 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005750/P069952.wav
-R000457 S005750 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005750/P000005.wav
-R000457 S005750 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005750/P000004.wav
-R000457 S005750 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005750/P000003.wav
-R000457 S005748 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005748/P000009.wav
-R000457 S005748 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005748/P065552.wav
-R000457 S005748 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005748/P071514.wav
-R000457 S005748 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005748/P071513.wav
-R000457 S005748 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005748/P000006.wav
-R000457 S005749 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005749/P065556.wav
-R000457 S005749 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005749/P071515.wav
-R000457 S005749 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005749/P000001.wav
-R000457 S005747 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005747/P052189.wav
-R000457 S005747 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005747/P061995.wav
-R000457 S005747 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000457/S005747/P052191.wav
-R000450 S005691 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005691/P049696.wav
-R000450 S005691 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005691/P000005.wav
-R000450 S005691 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005691/P000002.wav
-R000450 S005692 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005692/P049699.wav
-R000450 S005693 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005693/P065409.wav
-R000450 S005693 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005693/P065408.wav
-R000450 S005693 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005693/P049713.wav
-R000450 S005693 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005693/P065407.wav
-R000450 S005693 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005693/P000007.wav
-R000450 S005693 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005693/P000003.wav
-R000450 S005694 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000450/S005694/P000007.wav
-R000237 S002953 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002953/P066137.wav
-R000237 S002953 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002953/P025124.wav
-R000237 S002953 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002953/P025125.wav
-R000237 S002953 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002953/P025136.wav
-R000237 S002952 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002952/P025113.wav
-R000237 S002952 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002952/P066134.wav
-R000237 S002952 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002952/P000005.wav
-R000237 S002952 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002952/P025120.wav
-R000237 S002952 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002952/P000003.wav
-R000237 S002950 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002950/P025089.wav
-R000237 S002950 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002950/P000005.wav
-R000237 S002950 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002950/P025080.wav
-R000237 S002951 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002951/P025105.wav
-R000237 S002951 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002951/P066132.wav
-R000237 S002951 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002951/P066130.wav
-R000237 S002951 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000237/S002951/P025092.wav
-R000576 S008821 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008821/P067033.wav
-R000576 S008821 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008821/P000007.wav
-R000576 S008821 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008821/P000010.wav
-R000576 S008823 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008823/P065674.wav
-R000576 S008823 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008823/P065676.wav
-R000576 S008823 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008823/P000002.wav
-R000576 S008822 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008822/P000009.wav
-R000576 S008822 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008822/P067038.wav
-R000576 S008822 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008822/P098761.wav
-R000576 S008822 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008822/P000006.wav
-R000576 S008822 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000576/S008822/P000004.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P062925.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P096159.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P096162.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P000006.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P000007.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P000005.wav
-R000547 S008497 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008497/P000001.wav
-R000547 S008499 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008499/P096171.wav
-R000547 S008499 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008499/P096175.wav
-R000547 S008499 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008499/P096176.wav
-R000547 S008498 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008498/P096165.wav
-R000547 S008498 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008498/P000003.wav
-R000547 S008500 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008500/P000009.wav
-R000547 S008500 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008500/P096184.wav
-R000547 S008500 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008500/P096179.wav
-R000547 S008500 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008500/P096180.wav
-R000547 S008500 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008500/P000005.wav
-R000547 S008500 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000547/S008500/P066153.wav
-R000439 S005515 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005515/P000009.wav
-R000439 S005515 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005515/P052102.wav
-R000439 S005515 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005515/P052103.wav
-R000439 S005515 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005515/P048094.wav
-R000439 S005516 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005516/P000002.wav
-R000439 S005518 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005518/P000009.wav
-R000439 S005518 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005518/P000008.wav
-R000439 S005518 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005518/P069406.wav
-R000439 S005518 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005518/P048120.wav
-R000439 S005517 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005517/P048111.wav
-R000439 S005517 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005517/P069403.wav
-R000439 S005517 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005517/P000007.wav
-R000439 S005517 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005517/P000010.wav
-R000439 S005517 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005517/P000004.wav
-R000439 S005517 /Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav/R000439/S005517/P000001.wav
+R000303 S003982/P034169.wav
+R000303 S003982/P070965.wav
+R000303 S003982/P034170.wav
+R000303 S003982/P034166.wav
+R000303 S003983/P066202.wav
+R000303 S003983/P000010.wav
+R000303 S003983/P034171.wav
+R000303 S003983/P034173.wav
+R000303 S003984/P000008.wav
+R000303 S003984/P000007.wav
+R000303 S003984/P000010.wav
+R000303 S003984/P000001.wav
+R000303 S003984/P000003.wav
+R000303 S003981/P051525.wav
+R000303 S003981/P000004.wav
+R000303 S003981/P034159.wav
+R000303 S003981/P000003.wav
+R000420 S005252/P045553.wav
+R000420 S005252/P045552.wav
+R000420 S005252/P045551.wav
+R000420 S005252/P045554.wav
+R000420 S005252/P065571.wav
+R000420 S005252/P045559.wav
+R000420 S005252/P045561.wav
+R000420 S005252/P000002.wav
+R000420 S005254/P045593.wav
+R000420 S005254/P045582.wav
+R000420 S005253/P045576.wav
+R000420 S005251/P052004.wav
+R000420 S005251/P045545.wav
+R000420 S005251/P045540.wav
+R000420 S005251/P045535.wav
+R000420 S005251/P045534.wav
+R000457 S005750/P069953.wav
+R000457 S005750/P000007.wav
+R000457 S005748/P000009.wav
+R000457 S005748/P071510.wav
+R000457 S005749/P069951.wav
+R000457 S005749/P000005.wav
+R000457 S005749/P000010.wav
+R000457 S005749/P000003.wav
+R000457 S005747/P052189.wav
+R000457 S005747/P000005.wav
+R000457 S005747/P000003.wav
+R000450 S005691/P052170.wav
+R000450 S005691/P061973.wav
+R000450 S005692/P065404.wav
+R000450 S005692/P000006.wav
+R000450 S005693/P000008.wav
+R000450 S005693/P000005.wav
+R000450 S005694/P069807.wav
+R000450 S005694/P049721.wav
+R000450 S005694/P065412.wav
+R000450 S005694/P000001.wav
+R000450 S005694/P000002.wav
+R000237 S002953/P025132.wav
+R000237 S002953/P000003.wav
+R000237 S002953/P025123.wav
+R000237 S002952/P025107.wav
+R000237 S002952/P025116.wav
+R000237 S002952/P066134.wav
+R000237 S002952/P025122.wav
+R000237 S002950/P051141.wav
+R000237 S002950/P000005.wav
+R000237 S002950/P000002.wav
+R000237 S002951/P025104.wav
+R000237 S002951/P025101.wav
+R000237 S002951/P025092.wav
+R000237 S002951/P025097.wav
+R000237 S002951/P025095.wav
+R000576 S008820/P000009.wav
+R000576 S008820/P098744.wav
+R000576 S008820/P098742.wav
+R000576 S008820/P000005.wav
+R000576 S008820/P098739.wav
+R000576 S008821/P098750.wav
+R000576 S008821/P098753.wav
+R000576 S008821/P098748.wav
+R000576 S008821/P000001.wav
+R000576 S008821/P000002.wav
+R000576 S008823/P098769.wav
+R000576 S008823/P000005.wav
+R000576 S008822/P098755.wav
+R000576 S008822/P098758.wav
+R000576 S008822/P098762.wav
+R000576 S008822/P098760.wav
+R000576 S008822/P000007.wav
+R000576 S008822/P000003.wav
+R000576 S008822/P065671.wav
+R000547 S008497/P053245.wav
+R000547 S008497/P062926.wav
+R000547 S008497/P062925.wav
+R000547 S008497/P062924.wav
+R000547 S008497/P096159.wav
+R000547 S008497/P000007.wav
+R000547 S008497/P000002.wav
+R000547 S008499/P066149.wav
+R000547 S008498/P071230.wav
+R000547 S008498/P096169.wav
+R000547 S008498/P066147.wav
+R000547 S008500/P000008.wav
+R000547 S008500/P096184.wav
+R000547 S008500/P071238.wav
+R000547 S008500/P000007.wav
+R000547 S008500/P066152.wav
+R000439 S005515/P000006.wav
+R000439 S005515/P048093.wav
+R000439 S005516/P048102.wav
+R000439 S005518/P069406.wav
+R000439 S005518/P048122.wav
+R000439 S005518/P000005.wav
+R000439 S005518/P000010.wav
+R000439 S005517/P000002.wav
