@@ -2,8 +2,8 @@ import os
 import random
 
 # Specify the path to the main dataset folder
-#dataset_folder = "mnt/disk1/data/DeepMine/wav"
-dataset_folder =  "/Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav"
+dataset_folder = "mnt/disk1/data/DeepMine/wav"
+#dataset_folder =  "/Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav"
 
 # Define split ratios
 train_ratio = 0.7
