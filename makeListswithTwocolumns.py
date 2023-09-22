@@ -2,7 +2,7 @@ import os
 import random
 
 # Specify the path to the main dataset folder
-dataset_folder = "mnt/disk1/data/DeepMine/wav"
+dataset_folder = "../../../../mnt/disk1/data/DeepMine/wav"
 #dataset_folder =  "/Users/maryamafshari/Desktop/Thesis_data/Deepmine Small Sample/SampleDeepMine/wav"
 
 # Define split ratios
@@ -65,3 +65,5 @@ write_list_to_file(val_list, "val_list_v2.txt")
 
 # Write test list to a file, 2 Columns = 2 clmns
 write_list_to_file(test_list, "test_list_v2.txt")
+
+print("Lists are ready. :) Thank GOD")
